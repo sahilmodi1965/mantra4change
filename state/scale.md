@@ -19,6 +19,18 @@ The numbers Mantra4Change uses in grant applications, award entries, and donor c
 - **500+** birth certificates and **400+** Aadhaar cards processed — structural-barrier removal
 - **100%** enrolment achieved in 50 panchayats
 
+## Mantra4Change-org reach (from Narrative for Shikshagraha doc, read 2026-05-11)
+
+_Status: research-seeded — awaiting user validation. These figures appear in Mantra4Change's own narrative doc but have not been confirmed by Pratik. They differ from the movement-level numbers above; treat the difference carefully._
+
+- **6 states, 2,70,000 schools, 2,90,000 leaders, 36 million children** — Mantra4Change current reach
+- **900,000 micro-improvements** catalysed via Shikshagraha to date (per Narrative doc — note the brief above cites 1,370,606+ for the movement total)
+- **EduMentum: 51 organisations, 23 states, 24,767 schools, 12.7 lakh children**
+- **Present in 28 districts in under 1 year** (Shikshagraha expansion claim)
+- **30% of all Indian public schools** impacted through state/district government work
+
+Source route: `routes/communications.md` → Narrative for Shikshagraha (Google Doc).
+
 ## Third-party evidence — TISS-SCERT 2025
 
 Assessment across **28,989 government schools**:

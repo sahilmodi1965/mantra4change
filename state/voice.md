@@ -68,6 +68,33 @@ Stated values (Mantra4Change about-us page):
 
 LinkedIn handle: **"Communications Director | Story Teller"** ([linkedin.com/in/pratik-jain-he-him](https://in.linkedin.com/in/pratik-jain-he-him)). Career: Times Network → PING → Taxsutra → Enabling Leadership → Catalyst Management Services → Mantra4Change. The Story Teller frame matters — narrative-driven content is preferred over technocratic/report style.
 
+## Shikshagraha brand voice additions (from Brand Guidelines PDF, read 2026-05-11)
+
+Pulled from the Shikshagraha Brand Guidelines PDF in the Communications folder. Route: `routes/communications.md`.
+
+### Tagline
+**"Every step towards education"** — primary Shikshagraha tagline. Appears on posters, social assets, newsletter. Forward motion, incremental, child-centred.
+
+### Goal shorthand
+**"100M x 2030"** — internal/brand shorthand for the movement's scale goal (100 million children by 2030).
+
+### Story content pattern (from poster template)
+The brand guide's poster examples show a specific narrative format used for Shikshagraha's storytelling:
+
+1. **Individual child's name + role** ("Charan, Student")
+2. **One concrete challenge** (family context, circumstance)
+3. **School as the constant** — child walks to school daily despite challenges
+4. **One specific dream** ("to become a police officer")
+5. **Agency statement** — school + determination make the dream reachable
+6. **Tagline anchor**: "Every step towards education"
+
+This is the canonical storytelling unit for Shikshagraha-facing content: named, specific, dream-forward, never pitying. **The child is the protagonist, not the problem.**
+
+Cross-references: the Hirehalli case study in [[stories]] follows the structural cousin of this pattern at the village scale. The Instagram and case-study formats in [[formats]] should default to this pattern.
+
+### Visual register (inferred for written tone)
+Bold, warm, saturated colour palette (Hephaestus Gold, Cascara, Indigo, purple). Not austere or institutional. The visual language reinforces the verbal register: aspirational, community-warm, movement-energy. Written content should match this — not report-style, not grey.
+
 ## Cross-brain note (INTENT principle 7)
 
 ShikshaLokam shares leadership, patrons, and convenings with Mantra4Change but **does not share voice**. Do not transplant ShikshaLokam phrasings into Mantra4Change/Shikshagraha output even when they're aesthetically similar.

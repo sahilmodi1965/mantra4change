@@ -24,6 +24,14 @@ Running index of every source consulted. Every claim in `state/*.md` cites one o
 
 - [shikshalokam.org/leading-is-like-living-in-goa](https://shikshalokam.org/leading-is-like-living-in-goa/) — confirms Khushboo Awasthi's cross-org Co-Founder role. *Fetched 2026-05-10 (during ShikshaLokam pass; reused here).*
 
+## 2026-05-11 added by Claude Code (Pratik onboarding session)
+
+Drive docs Pratik shared during his first-session onboarding. Routes to each live in `routes/communications.md`.
+
+- [Narrative for Shikshagraha](https://docs.google.com/document/d/153IiQ4jf3GBO0Q52Jfh_yYUPlr3i7DtzYJ1tVoRVub8/edit) — in Communications folder. Rich movement narrative, scale data, voice samples. Contains a "As ShikshaLokam" section (cross-org; handle per INTENT principle 7). Numbers from this doc folded into [[scale]]. *Read 2026-05-11.*
+- [Shikshagraha Communications Strategy](https://docs.google.com/document/d/1R3NMXGrqfYxMPkotwUy-3mZQpkc89hLhM5gchKGDoGc/edit) — in Communications folder. Currently a stub; objectives and audience segments only. Worth enriching in a maintainer pass. *Read 2026-05-11.*
+- [Shikshagraha Brand Guidelines PDF](https://drive.google.com/file/d/1R7IQeXOG1K8mcFwGd-tAZF1hhNpzkzUs/view) — in Communications folder. Visual identity: logo, palette (Hephaestus Gold, Cascara, Indigo), Montserrat/Gotham fonts. Tagline "Every step towards education" and child-story content pattern folded into [[voice]]. *Read 2026-05-11.*
+
 ## Search-derived (not directly fetched)
 
 - LinkedIn org page (`in.linkedin.com/company/mantra4change`) — referenced but not authenticated-fetched.

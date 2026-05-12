@@ -52,3 +52,19 @@ The PDF lives in `~/Downloads/Shikshalokam/` — folder name suggests it may hav
 - Confirm whether "1,50,000 schools by 2025" Mantra4Change target was met or retired
 - Pull Pratik's own writing samples (LinkedIn posts, op-eds) into `voice.md` for deeper register capture
 - Consider whether `onboarding/pratik.md` should be updated to reflect that voice/format/objections are now in state and don't need re-establishing in his first session
+
+## Addendum — backup-pratik merged back (2026-05-12, later same day)
+
+Pratik's local clone had diverged: his onboarding session had created a `routes/` folder and enriched 3 state files (SOURCES.md, mission.md, voice.md) from Drive docs. `git pull` failed with "divergent branches" after the main brain was rewritten.
+
+Resolution sequence:
+1. Pratik saved his local commits to `origin/backup-pratik` and `git reset --hard origin/main` to align with the new brain (verified by `ls state/` showing 12 files and reading `key-messages.md`).
+2. Sahil's maintainer session then merged `backup-pratik` content back into main:
+   - `routes/` folder (4 files: `active-work.md`, `communications.md`, `media-bank.md`, `org-drive.md`) brought in cleanly via `git checkout origin/backup-pratik -- routes/`.
+   - `state/SOURCES.md` — Pratik's 3 Drive doc sources (Narrative, Strategy stub, Brand Guidelines PDF) appended as a dated section.
+   - `state/scale.md` — Narrative-doc Mantra4Change-org reach numbers added with explicit "research-seeded; awaiting validation" status; note that they conflict with the movement-level numbers from the PDF brief.
+   - `state/voice.md` — Brand Guidelines additions folded in: tagline ("Every step towards education"), "100M x 2030" shorthand, the 6-step story content pattern, visual register.
+
+The auto-pull/push hooks added earlier the same day mean this pattern shouldn't recur: maintainer changes auto-push at session end; user sessions auto-pull at start.
+
+`backup-pratik` branch kept on GitHub as historical reference, not deleted.
