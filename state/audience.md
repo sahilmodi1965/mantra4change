@@ -1,43 +1,71 @@
-_status: research-seeded — awaiting user validation_
-_last updated: 2026-05-10_
+_status: user-validated (from Pratik's AI Communication Brief, May 2026)_
+_last updated: 2026-05-12_
 
 # Audience
 
-Who Mantra4Change's content speaks to. Inferred from homepage, about-us, and STEP/Shikshagraha pages — needs Pratik's confirmation.
+The five audiences Shikshagraha communicates to. Each wants something different; the voice rules in [[voice]] are constant, but emphasis shifts by audience.
 
-## Primary audiences (by site framing)
+## Donors & Funders
 
-1. **School leaders / head teachers (HMs)** — direct beneficiaries of programs like STEP, PACE.
-2. **Education departments / government stakeholders** — district, state, national. Co-creation partners.
-3. **Civil society organisations (CSOs) in education** — Mantra4Change "enables" them via knowledge sharing, EduMentum incubation, collective action via Shikshagraha.
-4. **Teachers and cluster resource persons (CRPs)** — frontline practitioners.
-5. **Parents and the community** — Parent-Teacher Meets, Learning Spaces at Home, "those closest to the child."
-6. **Individual donors and volunteers** — homepage CTAs include "Get Involved" and "Reach out to us."
-7. **Institutional funders and philanthropy** — Schwab Foundation, SFPI patronage, Education Above All Foundation (per third-party).
+**What they want:** impact, credibility, momentum, a coherent theory of change, and to feel part of something larger than a grant cycle.
 
-Sources: [mantra4change.org](https://www.mantra4change.org/), [mantra4change.org/about-us](https://www.mantra4change.org/about-us/), [mantra4change.org/steps](https://www.mantra4change.org/steps/), [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
+**How to speak:** to nation-building. Invite them into the movement, not just a transaction.
 
-## Implied audience for content output (Pratik's brief)
+**Default tools:** TISS-SCERT evidence from [[scale]] § Third-party evidence; norms-shifting framing from [[mission]]; [[stories]] for emotional anchor.
 
-As Director, Communications, Pratik likely owns content for:
+## Government Partners
 
-- **External / public** — website, social, op-eds, press, donor / funder reports — multi-audience, narrative-led
-- **Programmatic / partner-facing** — co-design briefs with SCERT / DIETs, MoU framing, partner CSO communications via Shikshagraha
-- **Internal / culture** — team communications, values reinforcement, milestone storytelling
+**What they want:** visible success stories, scalability, public trust.
 
-This split is **inferred, not user-validated.** Pratik should confirm or correct.
+**How to speak:** show credibility, reduce their risk, help them look like leaders.
 
-## Sensitivities
+**Default tools:** Hirehalli-style stories ([[stories]]) where community demand strengthened the system, not bypassed it; district-level transformation language from [[mission]].
 
-- **Government-adjacent.** Tone is collaborative; never adversarial; "co-create" is the standard verb.
-- **Child-centred framing is non-negotiable.** Even when content is about leaders or systems, the child is the "why" anchor.
-- **CSO peers are positioned as fellow travellers**, not as competitors or recipients of Mantra4Change's largesse.
-- **States vs national framing.** Public material often grounds at state / district level, then ladders up — not the other way.
+## Civil Society / NGO Partners
 
-## Gaps for user validation
+**What they want:** shared ownership, visibility, legitimacy.
 
-- Confirm primary audience(s) per content type (case study vs op-ed vs partner pitch vs internal note)
-- Confirm whether donor / funder content is voiced differently from program / partner content
-- Confirm international / global-south audience treatment, especially for InvokED communications
+**How to speak:** make them co-creators, not recipients. Distributed storytelling. Decentralised advocacy.
+
+**Default tools:** "43 momentum partners across sectors" framing; the **Samaj / Sarkar / Bazar / Sanchar** four-pillar model from [[ecosystem]].
+
+## Media
+
+**What they want:** strong stories, timeliness, real humans, data-backed credibility, a fresh angle on a familiar problem.
+
+**How to speak:** give them movement language — collective responsibility, district-led reform, systemic change.
+
+**Default tools:** *Mothers of Courage* festival recognition from [[stories]]; sharp opinionated framing per [[formats]] § Social — X / Thought leadership.
+
+## General Public
+
+**What they want:** hope that change is possible, and simple ways to participate.
+
+**How to speak:** make it feel accessible, not overwhelming.
+
+**Default tools:** Shiksha Chaupals participation numbers from [[scale]]; the resolution at the end of Hirehalli ([[stories]]); Instagram-format storytelling per [[formats]].
+
+## Sensitivities (apply across all five)
+
+- **Government-adjacent.** Collaborative, never adversarial. The verb is **co-create**.
+- **Child-centred framing is non-negotiable.** Even when content is about leaders or systems, the child is the why anchor.
+- **CSO peers are fellow travellers**, not competitors or recipients of largesse.
+- **States vs national framing.** Ground at state / district level, then ladder up.
+
+## Mantra4Change-specific audiences (legacy / supporting)
+
+When the content is about Mantra4Change-as-org (MoUs, grants to the org, hiring) rather than Shikshagraha-as-movement, additional audiences come into play:
+
+- **School leaders / head teachers (HMs)** — direct beneficiaries of STEP, PACE
+- **Education departments at state, district, national level** — co-design partners
+- **Teachers and cluster resource persons (CRPs)** — frontline practitioners
+- **Parents and the community** — PTMs, Learning Spaces at Home
+
+Use the five movement audiences above as the default. Drop down to these org-level audiences only when the content's frame is operational, not movement.
+
+## Gaps for next pass
+
+- Confirm donor/funder content register vs program-partner content register
+- Confirm international / global-south audience treatment (e.g., InvokED communications)
 - Confirm Hindi / regional-language audience treatment
-- Confirm media / press audience handling (Pratik's media background suggests he has views here)
+- Confirm media handling (Pratik's media background suggests strong views worth capturing)

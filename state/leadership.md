@@ -1,9 +1,9 @@
-_status: research-seeded — awaiting user validation_
-_last updated: 2026-05-10_
+_status: user-validated (Khushboo bio confirmed via Pratik's AI Communication Brief, May 2026); other entries research-seeded_
+_last updated: 2026-05-12_
 
 # Leadership
 
-People publicly identified with Mantra4Change. Sourced primarily from the team page; bios are thin in public material — needs Pratik's seeding for depth.
+People publicly identified with Mantra4Change. Khushboo's bio is canonical per Pratik's brief; other entries are research-seeded and await user validation.
 
 Source for most: [mantra4change.org/team](https://www.mantra4change.org/team/)
 
@@ -14,8 +14,10 @@ Source for most: [mantra4change.org/team](https://www.mantra4change.org/team/)
   Source: [mantra4change.org/about-us](https://www.mantra4change.org/about-us/)
 
 - **Khushboo Awasthi** — Co-Founder.
-  Cross-org role: Co-Founder & COO of ShikshaLokam ([shikshalokam.org/leading-is-like-living-in-goa](https://shikshalokam.org/leading-is-like-living-in-goa/)).
-  Recognitions: Women Transforming India 2021 (NITI Aayog), Schwab Social Innovator of the Year 2023, BW Education 40 Under 40 2022.
+  Background: grew up in Bihar, one of India's poorest states. Walked away from a corporate engineering career at WIPRO. Bootstrapped Mantra4Change from personal savings in 2013 with co-founder Santosh More. That decade of work became Shikshagraha (founded November 2023).
+  Roles: Co-founder of Mantra4Change; Co-founder & COO of ShikshaLokam ([shikshalokam.org/leading-is-like-living-in-goa](https://shikshalokam.org/leading-is-like-living-in-goa/)). Advises the Government of India on **three Ministry of Education committees**.
+  Recognitions: **Ashoka Fellow**, **Schwab Social Innovator** (2023), **NITI Aayog Women Transforming India Award 2021**, BW Education 40 Under 40 2022.
+  Source: Pratik's AI Communication Brief (May 2026).
 
 ## Operating leadership
 

@@ -1,9 +1,20 @@
-_status: research-seeded — awaiting user validation_
-_last updated: 2026-05-10_
+_status: user-validated framing (Samaj/Sarkar/Bazar/Sanchar, from Pratik's brief); partner lists research-seeded_
+_last updated: 2026-05-12_
 
 # Ecosystem
 
-Where Mantra4Change sits. Partners, funders, and the wider field. Includes documented cross-org overlap with ShikshaLokam — sourced, not blended.
+Where Shikshagraha and Mantra4Change sit. The four-pillar framing is canonical per Pratik's brief; partner lists are research-seeded.
+
+## The four pillars — Samaj, Sarkar, Bazar, Sanchar
+
+Shikshagraha works with **all four — together. Not one of them alone.**
+
+- **Samaj (society)** — communities, parents, youth, women's collectives that lead Shiksha Chaupals
+- **Sarkar (government)** — Education Departments at district, state, and national level; SCERTs, DIETs
+- **Bazar (private sector)** — funders, CSR partners, private-sector momentum partners
+- **Sanchar (media)** — journalists, filmmakers, and storytellers who carry the movement's voice
+
+This framing belongs in grant applications, donor pitches, and policy conversations. It is the most concise statement of how the movement coalesces actors who don't usually act together.
 
 ## Founders
 

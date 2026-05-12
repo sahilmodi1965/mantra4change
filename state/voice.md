@@ -1,75 +1,82 @@
-_status: research-seeded — awaiting user validation_
-_last updated: 2026-05-10_
+_status: user-validated (from Pratik's AI Communication Brief, May 2026)_
+_last updated: 2026-05-12_
 
 # Voice
 
-How Mantra4Change sounds in its own materials. Pulled from the homepage, about-us, Shikshagraha and STEP pages, plus self-framing on Pratik Jain's LinkedIn (Director of Communications, "Story Teller").
+How Shikshagraha sounds. Canonical voice rules from Pratik's brief — these supersede earlier research-seeded inferences. Older Mantra4Change.org voice samples are kept as supporting evidence at the bottom.
 
-## Distinctive register
+## Always
 
-**Warm, collaborative, child-centred.** Frames work as collective effort. Optimistic, but data-grounded.
+- **Simple, grounded language** — from the field, not a boardroom
+- **Hopeful but honest** — name the problem without being defeated by it
+- **Active voice, short sentences**
+- **Human story first, data second**
+- **Collective action, not individual heroes**
+- **Optimism is non-negotiable** — even when we talk about what's hard
+
+## Never
+
+- **Jargon:** no "leverage", "ecosystem", "scalable solutions", "holistic approach", "intervention"
+- **Passive voice**
+- **Condescension** toward government schools or communities
+- **Inflated or unverified impact claims**
+- **Academic distance**
+
+## Words we use
+
+- People's movement
+- Government / public schools
+- Together
+- Future-ready children
+- Collective responsibility
+- Community ownership
+
+## Words we avoid
+
+- Programme
+- Intervention
+- Rural / poor schools
+- Individual heroes
+
+## Cross-cutting
+
+- Every comm should echo at least one of the 5 [[key-messages]]
+- Format-specific rules (length, tone, key rule) in [[formats]]
+- The five thematic collectives in [[programs]] each have their own register — STEM-leaning content can sound more technical; Inclusion content stays emphatic
+
+## Supporting voice samples (legacy, from mantra4change.org)
+
+Kept as ground-truth examples of how the movement has historically sounded in public material. Use when you want to anchor a draft in a verified existing phrasing.
 
 > Together we can do amazing things!
-— [mantra4change.org](https://www.mantra4change.org/), [/steps](https://www.mantra4change.org/steps/)
-
-> Strong School Leaders for Better Student Outcomes
-— [mantra4change.org](https://www.mantra4change.org/)
+> — [mantra4change.org](https://www.mantra4change.org/)
 
 > transformation begins with restoring agency to those closest to the child
-— [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
-
-> Unlock the full potential of every child
-— [mantra4change.org](https://www.mantra4change.org/)
+> — [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
 
 > not just for exams, but for life, work, and citizenship
-— [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
-
-> Weaving a network of partners through Shikshagraha to drive improvements
-— [mantra4change.org](https://www.mantra4change.org/)
+> — [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
 
 > data driven decision making (paired with humanistic values)
-— [mantra4change.org/steps](https://www.mantra4change.org/steps/)
+> — [mantra4change.org/steps](https://www.mantra4change.org/steps/)
 
-## Recurring vocabulary
-
-- **"Together"** — load-bearing word; opens calls to action
-- **"Children" / "every child"** — content is centred on the child as the why, more than ShikshaLokam (which centres "leaders")
-- **"School leaders" / "head teachers" / "HMs"** — practitioner specificity
-- **"Inspire / Enable / Transform"** — the three-pillar theory of change, used as titling
-- **"Micro-improvements"** / "small wins" / "small, achievable actions" — the operational unit
-- **"Government schools"** — distinct from "public schools" in some contexts; specifies the partner
-- **"State / district / national"** — vertical of partnership, often listed in this order
-- **"Network"** / "ecosystem" / "civil society organisations" — Mantra4Change positions itself as enabling other orgs
-
-## Values (stated explicitly)
-
+Stated values (Mantra4Change about-us page):
 > Continuous Learning, Integrity, Ownership, Teamwork, Empathy, and Sense of Possibility
-— [mantra4change.org/about-us](https://www.mantra4change.org/about-us/)
+> — [mantra4change.org/about-us](https://www.mantra4change.org/about-us/)
 
-These read as house values that should colour content register: practical (Continuous Learning, Integrity, Ownership), relational (Teamwork, Empathy), aspirational (Sense of Possibility).
+## Pratik's self-framing
 
-## Pratik Jain's self-framing
+LinkedIn handle: **"Communications Director | Story Teller"** ([linkedin.com/in/pratik-jain-he-him](https://in.linkedin.com/in/pratik-jain-he-him)). Career: Times Network → PING → Taxsutra → Enabling Leadership → Catalyst Management Services → Mantra4Change. The Story Teller frame matters — narrative-driven content is preferred over technocratic/report style.
 
-LinkedIn handle: **"Communications Director | Story Teller"** ([linkedin.com/in/pratik-jain-he-him](https://in.linkedin.com/in/pratik-jain-he-him)). Pratik's career path is media → social-impact comms (Times Network → PING → Taxsutra → Enabling Leadership → Catalyst Management Services → Mantra4Change). The "Story Teller" self-framing matters: this brain is plausibly biased toward narrative-driven content over technocratic / report style.
+## Cross-brain note (INTENT principle 7)
 
-## What it avoids
+ShikshaLokam shares leadership, patrons, and convenings with Mantra4Change but **does not share voice**. Do not transplant ShikshaLokam phrasings into Mantra4Change/Shikshagraha output even when they're aesthetically similar.
 
-- Heroic founder language (the about-us page surfaces founders matter-of-factly, then immediately moves to the principal who inspired them)
-- Top-down language for government partners — always "co-create," "partner with"
-- Pure efficacy / metrics framing without a child or community in view
+- **ShikshaLokam centres the leader.**
+- **Shikshagraha (this brain) centres the child and the community**, with leaders as one of multiple actors.
 
-## Cross-brain note
+## Gaps for next pass
 
-Despite shared leadership (Khushboo Awasthi as Co-Founder of both orgs) and shared founders/patrons (Mr & Mrs Shibulal at SFPI), Mantra4Change's voice is meaningfully distinct from ShikshaLokam's:
-
-- **ShikshaLokam centres the leader** ("Every School Transformation Story Begins with a Leader").
-- **Mantra4Change centres the child**, with leaders as the means ("Strong School Leaders for Better Student Outcomes").
-
-Per INTENT principle 7, do not transplant ShikshaLokam phrasings into Mantra4Change output even when they're aesthetically similar. The frames are different.
-
-## Gaps for user validation
-
-- Long-form donor / institutional voice (annual report, MOU framing) not captured
-- Hindi / regional-language voice not captured
-- Pratik's own writing samples (LinkedIn posts, op-eds, internal memos) — would significantly sharpen voice
-- Voice for programmatic content (PBL teacher-facing material vs Shikshagraha movement-facing material)
+- Hindi / regional-language voice not yet captured
+- Pratik's own writing samples (LinkedIn posts, op-eds, internal memos) — would deepen this file
+- Voice register for programmatic / teacher-facing content (PBL classroom materials) vs movement-facing content

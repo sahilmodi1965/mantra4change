@@ -6,14 +6,19 @@ This brain organises four things: **state**, **session**, and **learning**, plus
 
 What the brain knows about Mantra4Change. Long-running. Updated by user-validated corrections, never silently overwritten. Read by every session as context.
 
-Initial files (may grow):
+Current files:
 
-- `mission.md` — what the org exists for, scope, theory of change
-- `voice.md` — how this org sounds (tone, register, recurring phrases, what it avoids), with quoted samples + source URLs
-- `audience.md` — who the content speaks to (segments, intent, sensitivities)
-- `programs.md` — current initiatives, status, framing
-- `ecosystem.md` — partners, funders, peers, where this org sits in the wider field
-- `leadership.md` — who runs the org, public roles, public posture
+- `mission.md` — who the movement is, the problem, urgency, norms it shifts, what success looks like
+- `voice.md` — Always/Never rules, words we use / words we avoid, supporting samples
+- `audience.md` — the five audience segments (Donors, Government, NGO partners, Media, Public) and what each wants
+- `programs.md` — visible mechanisms (Chaupals, district efforts, Awards, Samvaad, DPGs), five thematic collectives, four-pillar action model, plus the Mantra4Change operational program list
+- `ecosystem.md` — Samaj/Sarkar/Bazar/Sanchar framing, partners, funders, peers, cross-brain overlap with ShikshaLokam
+- `leadership.md` — founders, operating leadership, board, patrons, cross-org overlap
+- `scale.md` — 2025 movement scale, TISS-SCERT 2025 evidence, problem-side data, recent recognition
+- `stories.md` — *Mothers of Courage* and Hirehalli — the two canonical signature stories
+- `formats.md` — length/tone/key rule by content type (fundraising email, grant, social, case study, thought leadership)
+- `objections.md` — tough questions and signed-off answers
+- `key-messages.md` — the five messages every comm should echo
 - `SOURCES.md` — running index of every source consulted, with last-fetched date
 
 Each state file declares its current `_status:_` at the top:

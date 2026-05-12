@@ -2,6 +2,10 @@
 
 Running index of every source consulted. Every claim in `state/*.md` cites one of these. New entries appended; old entries kept with last-fetched date for provenance.
 
+## Canonical (user-supplied)
+
+- **Pratik Jain's AI Communication Brief** — `~/Downloads/Shikshalokam/Shikshagraha_AI_Memory_Brief.md.pdf`. Shared by Pratik May 2026 as the canonical AI-conversation context for Shikshagraha. Source for: [[mission]] (Problem, Urgency, Norms, Success), [[voice]] (Always/Never/Words), [[audience]] (5 segments), [[programs]] (Mechanisms, Five Collectives, Four Pillars), [[scale]], [[stories]], [[formats]], [[objections]], [[key-messages]], Khushboo's bio in [[leadership]]. *Received 2026-05-12.*
+
 ## Primary org material
 
 - [mantra4change.org](https://www.mantra4change.org/) — homepage; mission, vision, three-pillar theory of change, programs list, voice samples. *Fetched 2026-05-10.*
