@@ -27,6 +27,12 @@ Running index of every source consulted. Every claim in `state/*.md` cites one o
 - Motivation for Excellence project page (`motivationforexcellence.org/project/mantra4change`) — referenced; not fetched.
 - TheOrg listing (`theorg.com/org/mantra4change`) — referenced; not fetched.
 
+## 2026-05-11 added by Claude Code (Pratik session)
+
+- [Narrative for Shikshagraha](https://docs.google.com/document/d/153IiQ4jf3GBO0Q52Jfh_yYUPlr3i7DtzYJ1tVoRVub8/edit) — in Communications folder. Rich movement narrative, scale data, voice samples. Contains a "As ShikshaLokam" section (cross-org; handle per INTENT principle 7). *Read 2026-05-11.*
+- [Shikshagraha Communications Strategy](https://docs.google.com/document/d/1R3NMXGrqfYxMPkotwUy-3mZQpkc89hLhM5gchKGDoGc/edit) — in Communications folder. Currently a stub; objectives and audience segments only. *Read 2026-05-11.*
+- [Shikshagraha Brand Guidelines PDF](https://drive.google.com/file/d/1R7IQeXOG1K8mcFwGd-tAZF1hhNpzkzUs/view) — in Communications folder. Visual identity guide: logo, palette, typography, social/poster templates. Tagline "Every step towards education" and child-story content pattern extracted into voice.md. *Read 2026-05-11.*
+
 ## Known gaps in seeding
 
 - No insider documents or maintainer-shared URLs — Sahil's choice: Pratik seeds insider context himself in onboarding.

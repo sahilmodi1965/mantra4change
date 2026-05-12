@@ -39,12 +39,22 @@ Source: [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagr
 
 ## Scale claims
 
-- **1,50,000 schools by 2025** — stated mission target
+- **1,50,000 schools by 2025** — stated mission target (status unconfirmed; see gaps below)
 - **1 million public schools by 2030** — Shikshagraha-level goal
 - **12 states** of operation (per team page) — Andhra Pradesh, Bihar, Karnataka, Meghalaya, Nagaland, Odisha, Punjab, Telangana, Uttar Pradesh, and others (others not enumerated in fetched material)
 - 50+ program leads / senior program leads / associate program managers across these states
 
-Sources: [mantra4change.org](https://www.mantra4change.org/), [mantra4change.org/team](https://www.mantra4change.org/team/), [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/)
+### Current-state figures (from Narrative for Shikshagraha, Communications folder, read 2026-05-11)
+
+_Status: research-seeded — awaiting user validation. These figures appear in Mantra4Change's own narrative doc but have not been confirmed by Pratik._
+
+- **6 states, 2,70,000 schools, 2,90,000 leaders, 36 million children** — Mantra4Change current reach
+- **900,000 micro-improvements** catalysed via Shikshagraha to date
+- **EduMentum: 51 organisations, 23 states, 24,767 schools, 12.7 lakh children**
+- **Present in 28 districts in under 1 year** (Shikshagraha expansion claim)
+- **30% of all Indian public schools** impacted through state/district government work (sourced from same doc)
+
+Sources: [mantra4change.org](https://www.mantra4change.org/), [mantra4change.org/team](https://www.mantra4change.org/team/), [mantra4change.org/shikshagraha](https://www.mantra4change.org/shikshagraha/), Narrative for Shikshagraha (Google Doc, Communications folder, read 2026-05-11)
 
 ## Gaps for user validation
 
