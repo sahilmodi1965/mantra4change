@@ -1,5 +1,12 @@
-_status: user-validated (from Pratik's AI Communication Brief, May 2026)_
-_last updated: 2026-05-12_
+---
+type: concept
+title: "Audience"
+sources: ["[[SOURCES]]"]
+corrected_by: []
+created: 2026-05-14
+updated: 2026-05-12
+_status: user-validated
+---
 
 # Audience
 

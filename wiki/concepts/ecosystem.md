@@ -1,5 +1,12 @@
-_status: user-validated framing (Samaj/Sarkar/Bazar/Sanchar, from Pratik's brief); partner lists research-seeded_
-_last updated: 2026-05-12_
+---
+type: concept
+title: "Ecosystem"
+sources: ["[[SOURCES]]"]
+corrected_by: []
+created: 2026-05-14
+updated: 2026-05-12
+_status: user-validated
+---
 
 # Ecosystem
 

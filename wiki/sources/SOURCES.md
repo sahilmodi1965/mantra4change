@@ -1,3 +1,13 @@
+---
+type: source
+title: "SOURCES — Mantra4Change research seeding"
+sources: []
+corrected_by: []
+created: 2026-05-14
+updated: 2026-05-14
+_status: research-seeded
+---
+
 # SOURCES — Mantra4Change research seeding
 
 Running index of every source consulted. Every claim in `state/*.md` cites one of these. New entries appended; old entries kept with last-fetched date for provenance.
