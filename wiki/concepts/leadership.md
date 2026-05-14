@@ -35,8 +35,9 @@ Source for most: [mantra4change.org/team](https://www.mantra4change.org/team/)
 ## Strategic / Functional Directors
 
 - **Aileen Chen** — Strategic Director, State Programs
-- **Mohammed Rafi MT** — Director, State Programs
-- **Sandeep Parakkal** — Director, Fundraising & Partnerships; CFO
+- **Mohammed Rafi MT** — Director, State Programs. Bengaluru-based. Career: Program Director → Program Manager → Project Leader. Skills: research, teaching, qualitative research. ([LinkedIn surfaced 2026-05-14](https://linkedin.com/in/ACoAABJS25kBBh0AE5g2y-RR48I-nJzCoMsGQJQ))
+- **Sandeep Parakkal** — **Chief Financial Officer** (also Director, Fundraising & Partnerships). Bengaluru-based. Career: HR → Marketing Comms → Fundraising → CFO. Skills: business development, marketing strategy, CRM, employee engagement, account management. ([LinkedIn surfaced 2026-05-14](https://linkedin.com/in/ACoAAAETIAcBHV-7C4PwqdPnIj7fP-vs5UHh-Vk))
+- **Saurabh Singh** — **Director, State Program.** Patna, Bihar — the on-the-ground state-program lead for Mantra4Change's Bihar work (including Shiksha Chaupal women's mobilisation). Career: Manager State Program → Director State Program. Lead of School Transformation & Empowerment Program (STEP). Skills: government liaison, leadership development coaching, teacher training, strategic planning. ([LinkedIn surfaced 2026-05-14](https://linkedin.com/in/ACoAAA-7AkABUx7-5DNZo546_OGiGDwlJfzsNiA))
 - **Sriram Chemuturi** — Director, Research & Design
 - **Vernon** — Director, Shikshagraha (only first name surfaced; needs full name)
 

@@ -89,3 +89,13 @@ The LEDGER is the brain's autobiography. It does not replace `wiki/` (the state)
 - **Learned:** The Awards 2027 cycle is live as of May 2026. SFPI is the institutional host. The three-line audience frame is canonical. Mantra4Change's role in Awards content is amplification with institutional credit, not ownership.
 - **Status changes:** none on existing files; new files land as user-validated.
 - **Sources touched:** [[awards-2027-nominations-live-2026-05]] [[awards-2027-linkedin-post]]
+
+## 2026-05-14 22:00 UTC — Sahil (maintainer) — vibe-prospecting-team-discovery
+
+- **Asked:** Sahil — use Vibe Prospecting MCP to enrich team members in both brains, no email enrichment (free preview discovery only).
+- **Produced:**
+  - Updated `wiki/concepts/leadership.md` Strategic / Functional Directors section with LinkedIn-confirmed details: **Sandeep Parakkal** (CFO + Fundraising/Partnerships, full career arc + skills sourced), **Mohammed Rafi MT** (State Program Director with career arc), and **Saurabh Singh** added — Director, State Program based in Patna, Bihar (lead of School Transformation & Empowerment Program; the on-the-ground link to Shiksha Chaupal women's mobilisation work).
+- **Learned:** Saurabh Singh is the named Bihar-based STEP director — when Pratik drafts Bihar Chaupal content, the brain can now cite the on-the-ground program lead. Sandeep Parakkal's prior fundraising background is relevant context when drafting fundraising emails.
+- **Status changes:** Three Strategic Directors now have LinkedIn provenance + career arc attached.
+- **Sources touched:** [[leadership]]
+- **Cost:** Zero credits — preview-only fetch (no email enrichment, no export).
