@@ -64,3 +64,17 @@ The LEDGER is the brain's autobiography. It does not replace `wiki/` (the state)
 - **Status changes:** every wiki/**.md now carries `_status:` frontmatter.
 - **Sources touched:** none — structural migration, no content changes.
 - **Note:** data preserved verbatim from prior state/ layout. Pre-migration git tag: `pre-unify-2026-05-14`.
+
+## 2026-05-14 19:30 UTC — Sahil (maintainer) — first-enrichment-pass
+
+- **Asked:** Sahil — pull movement-level content from the Shikshagraha Drive into Mantra4Change brain so the May 30 demo lands with a real, populated brain.
+- **Produced:**
+  - 3 routes added (`routes/drive-communications.md`, `routes/drive-assets.md`, `routes/drive-coffee-table-book.md`) mapping the Shikshagraha Comms folder, Assets folder, Coffee Table Book folder.
+  - 2 new wiki sources (`wiki/sources/shikshagraha-narrative-2026.md` — full canonical movement narrative; `wiki/sources/shikshagraha-brief-collaterals-feb2026.md` — latest comprehensive movement stats + brochure structure).
+  - 2 voice exemplars (`wiki/voice/exemplars/khushboo-newsletter-jan2024.md` — Khushboo's year-end newsletter signature voice; `wiki/voice/exemplars/mantra-step-storytelling.md` — Mantra-STEP chapter format).
+  - `wiki/index.md` populated with real entries (replaces the migration stub).
+  - `SHOWCASE.md` written at brain root — the single human-readable page anyone can scroll to see this brain working.
+- **Learned:** Comms Strategy doc is a stub — flagged for maintainer pass. The Feb 2026 Brief for Collaterals carries more current movement numbers than the older Note on Shikshagraha; treat brief as canonical for stats until superseded.
+- **Status changes:** none yet — Pratik's session-driven validation flips state as he uses the brain.
+- **Sources touched:** [[shikshagraha-narrative-2026]] [[shikshagraha-brief-collaterals-feb2026]] [[khushboo-newsletter-jan2024]] [[mantra-step-storytelling]]
+- **Note:** This is the first real enrichment after migration. Next enrichment is monthly (Sahil $200 plan); next weekly review is Fri May 23 with Sahid + Pratik. The brain is now ready for Pratik to test in a fresh terminal session.
