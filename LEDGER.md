@@ -78,3 +78,14 @@ The LEDGER is the brain's autobiography. It does not replace `wiki/` (the state)
 - **Status changes:** none yet — Pratik's session-driven validation flips state as he uses the brain.
 - **Sources touched:** [[shikshagraha-narrative-2026]] [[shikshagraha-brief-collaterals-feb2026]] [[khushboo-newsletter-jan2024]] [[mantra-step-storytelling]]
 - **Note:** This is the first real enrichment after migration. Next enrichment is monthly (Sahil $200 plan); next weekly review is Fri May 23 with Sahid + Pratik. The brain is now ready for Pratik to test in a fresh terminal session.
+
+## 2026-05-14 21:30 UTC — Sahil (maintainer) — awards-2027-campaign-ingest
+
+- **Asked:** Sahil — ingest the live Shikshagraha Awards 2027 nominations LinkedIn post (Pratik is tagged; cross-brand relevance).
+- **Produced:**
+  - New source: `wiki/sources/awards-2027-nominations-live-2026-05.md` with full verbatim post + canonical framings + cross-brand context (Pratik tagged; Khushboo + Santosh associated; Mantra4Change is amplifier, not host).
+  - New voice exemplar: `wiki/voice/exemplars/awards-2027-linkedin-post.md` — the canonical campaign-announcement voice pattern, with explicit Mantra4Change amplification rules (institutional credit first, never claim Awards ownership, keep three-line audience frame verbatim).
+  - Updated `docs/index.html` — new timeline entry showing the Awards 2027 ingest and Pratik's tagged-in status.
+- **Learned:** The Awards 2027 cycle is live as of May 2026. SFPI is the institutional host. The three-line audience frame is canonical. Mantra4Change's role in Awards content is amplification with institutional credit, not ownership.
+- **Status changes:** none on existing files; new files land as user-validated.
+- **Sources touched:** [[awards-2027-nominations-live-2026-05]] [[awards-2027-linkedin-post]]
