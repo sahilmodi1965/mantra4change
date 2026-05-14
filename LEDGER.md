@@ -99,3 +99,12 @@ The LEDGER is the brain's autobiography. It does not replace `wiki/` (the state)
 - **Status changes:** Three Strategic Directors now have LinkedIn provenance + career arc attached.
 - **Sources touched:** [[leadership]]
 - **Cost:** Zero credits — preview-only fetch (no email enrichment, no export).
+
+## 2026-05-14 22:30 UTC — Sahil (maintainer) — vibe-team-export
+
+- **Asked:** Sahil — pull all 50 M4C team members from Vibe Prospecting (cost 50 credits, no email enrichment).
+- **Produced:** Full 50-person M4C team roster ingested into `wiki/concepts/leadership.md`. Comprehensive sections by function: Co-Founders, C-Suite (incl. Ambili Sukesan as US-based Treasurer in Bellevue), 6 Directors, Comms team (Pratik + Sushant + Sharon + Alron), Fundraising tier, **Bihar team** (Saurabh Singh + 6 more in Patna — the Shiksha Chaupal context), other-states programs (UP, Punjab, Delhi, Gujarat, MP), Solution Design + R&D (10), People + Ops (11), Board, Trustees.
+- **Learned:** **Vernon Noel Noronha** full name confirmed (was "Vernon" only before) — Program Director, Shikshagraha. **7 people based in Patna/Bihar** form the on-the-ground Bihar team for Shiksha Chaupal + STEP. Ambili Sukesan in Bellevue, WA suggests deliberate US presence (likely for 501c3 / international fundraising). Sharon Varghese sits at M4C as Creative Leader Comms but was tagged in SL's Awards 2027 post (cross-brand presence — flagged for note).
+- **Status changes:** Leadership concept significantly enriched; 50 sourced LinkedIn URLs available.
+- **Sources touched:** [[leadership]]
+- **Cost:** 50 Explorium credits (no email enrichment). Dataset retained on Vibe Prospecting hub: `ds-a6f533eb-c230-465a-afa3-3e37eb9bec70`.
