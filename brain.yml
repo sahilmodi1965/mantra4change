@@ -18,7 +18,7 @@ users:
       plan: "$20"
 
 config:
-  # When true, apply CLAUDE.md chat-shield rules — no paths, no flags, no technical terms surface to the daily user. Use for non-technical users (Mehr). When false, the user can read state files directly (Pratik, Komal).
+  # When true, apply CLAUDE.md chat-shield rules — no paths, no flags, no technical terms surface to the daily user. Use for non-technical users (Mehr). When false, the user can read state files directly (Pratik, Sonal).
   chat_shield: false
 
   # Where produced drafts land. "none" = drafts only in chat (no archive).
