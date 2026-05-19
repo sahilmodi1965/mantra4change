@@ -56,6 +56,17 @@ The LEDGER is the brain's autobiography. It does not replace `wiki/` (the state)
 
 <!-- Entries appended below this line. Newest immediately below. -->
 
+## 2026-05-19 — Sahil (maintainer) — page-update-rule-cross-brain
+
+- **Asked:** Sahil — make "every session updates docs/index.html" a binding rule across both brains, after a sibling-brain (ShikshaLokam) session was caught auto-committing without refreshing the self-portrait.
+- **Produced:**
+  - `.claude/settings.json` SessionEnd hook updated. Two changes: (1) fixed the `head -50 LEDGER.md` bug — the old check missed today's entry once the ledger grew past 50 lines; now it greps the full file. (2) Added a docs/index.html freshness check — if `wiki/`, `routes/`, or `LEDGER.md` changed but `docs/index.html` didn't, the hook prints a loud `WARN`. Soft warning, not a hard block — picked deliberately so a forgetful session doesn't strand local changes uncommitted.
+  - `learnings/2026-05-19-page-update-every-session.md` documents the full rationale + the CLAUDE.md patch handed to the maintainer.
+- **Learned:** structural — implicit rules silently rot, even when written in the public artefact itself. The page-update rule was already in `docs/index.html` ("every enrichment adds new lines to my timeline") but no mechanism enforced it. Now it's in CLAUDE.md + hook + learnings/.
+- **Status changes:** none — pure architecture change, no `wiki/**` content touched.
+- **Sources touched:** none.
+- **Note:** CLAUDE.md is on the maintainer-only deny list, so the binding clause itself is queued as a patch for Sahil to apply by hand. Same hook + learning landed in sibling ShikshaLokam repo in the same maintainer pass. No M4C user session triggered this — it's a cross-brain maintainer architecture move.
+
 ## 2026-05-14 00:00 UTC — migration — content-brain-overlay-applied
 
 - **Asked:** Sahil (maintainer) — apply the unified content-brain overlay to Mantra4Change.
